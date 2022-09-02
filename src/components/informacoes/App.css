@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+.corpoInfo
+{
+    background-color: #343434;
+    margin-top: -80px;
+}
+
+.intro
+{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 80px;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    line-height: 40px;
+    color: #C83E4D;
+}
+
+.intro h1
+{
+    font-size: 3.8rem;
+    font-weight: 300;
+    line-height: 5rem;
+}
+
+.intro h2
+{
+    font-size: 35px;
+    font-weight: 400;
+    margin-top: 50px;
+}
+
+.intro h3
+{
+    font-size: 32px;
+    font-weight: 400;
+    margin-top: 50px;
+}
+
+.titleCard h1
+{
+    color:#EDD3C4;
+}

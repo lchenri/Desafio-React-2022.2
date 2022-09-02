@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+.footer
+{
+    background-color: #343434;
+    margin-top: 20px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.footerContent
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.footerLogo
+{
+    width: 30%;
+}
+
+.footerInfo
+{
+    width: 30%;
+}
+
+.footerInfo h1
+{
+    text-align: justify;
+    font-size: 1rem;
+    color: #C83E4D;
+    font-weight: 400;
+}
+
+.footerLinks
+{
+    width: 30%;
+    display: inline-block;
+}
+
+.footerLinks h1
+{
+    text-align: center;
+    font-size: 2rem;
+    color: #C83E4D;
+}
+
+.footerLinks a
+{
+    text-decoration: none;
+}
+
+.footerLogo img
+{
+    width: 300px;
+    height: 90px;
+    padding-top: 40px;
+}

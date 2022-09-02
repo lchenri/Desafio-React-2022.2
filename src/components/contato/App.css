@@ -1,0 +1,36 @@
+.contatoArea
+{
+    background-color: #ECE5F0;
+    color:#E98A15;
+    padding-top: 100px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.contatoArea h1
+{
+    font-size: 3.5rem;
+    font-weight: 300;
+}
+
+.contatoArea h2 
+{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.icons
+{
+    display: flex;
+    flex-wrap: column wrap;
+    justify-content: space-between;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.icons img
+{
+    width: 30%;
+}

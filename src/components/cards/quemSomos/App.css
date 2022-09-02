@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+.cardsArea
+{
+  display: flex;
+  flex-wrap: nowrap;
+  list-style: none;
+  margin: 0px 200px;
+  padding: 20px;
+}
+
+.sectionCards
+{
+  background-color: #ECE5F0;
+  color:#E98A15;
+  padding-top: 100px;
+  margin: auto;
+  text-align: center;
+}
+
+.sectionCards h1
+{
+  font-size: 3.5rem;
+  font-weight: 300;
+}
+
+.sectionCards h2
+{
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+  
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+  
+  /* Add some padding inside the card container */
+.container {
+  padding: 2px 20px;
+}
+
+.card img
+{
+  width: 80%;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.card h4
+{
+  text-transform: uppercase;
+  font-size: 20px;
+}
+  
